@@ -18,3 +18,11 @@ mfc로 제작했습니다.
 #
 3. 원하는 파일들을 드래그 하여 추가합니다.
 <img src="./doc/캡처3.PNG" width="70%" height="50%" title="캡처3" alt="캡처3"></img>
+
+#
+4. 확인을 누르면 암호화가 진행됩니다.
+<img src="./doc/캡처4.PNG" width="70%" height="50%" title="캡처4" alt="캡처4"></img>
+
+#
+5. 확인을 누르면 암호화가 진행됩니다.
+<img src="./doc/캡처5.PNG" width="70%" height="50%" title="캡처5" alt="캡처5"></img>
