@@ -25,4 +25,8 @@ mfc로 제작했습니다.
 
 #
 5. 다음과 같이 확장자가 enc인 암호화된 파일이 생성됩니다.  
-<img src="./doc/캡처5.PNG" width="70%" height="50%" title="캡처5" alt="캡처5"></img>
+<img src="./doc/캡처5.PNG" width="70%" height="50%" title="캡처5" alt="캡처5"></img>   
+   
+   
+   이와 같은 방법으로 .enc 파일을 붙여넣으면 복호화가 진행되며 파일이 복구됩니다.
+<img src="./doc/캡처6.PNG" width="70%" height="50%" title="캡처6" alt="캡처6"></img>   
