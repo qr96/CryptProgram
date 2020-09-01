@@ -20,9 +20,9 @@ mfc로 제작했습니다.
 <img src="./doc/캡처3.PNG" width="70%" height="50%" title="캡처3" alt="캡처3"></img>
 
 #
-4. 확인을 누르면 암호화가 진행됩니다.
+4. 확인을 누르면 암호화가 진행됩니다.   
 <img src="./doc/캡처4.PNG" width="70%" height="50%" title="캡처4" alt="캡처4"></img>
 
 #
-5. 확인을 누르면 암호화가 진행됩니다.
+5. 다음과 같이 확장자가 enc인 암호화된 파일이 생성됩니다.  
 <img src="./doc/캡처5.PNG" width="70%" height="50%" title="캡처5" alt="캡처5"></img>
